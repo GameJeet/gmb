@@ -1,5 +1,4 @@
-  <script>
-    /* =============================================
+/* =============================================
        SECURITY: Disable right-click and text selection
        on sensitive content
     ============================================= */
@@ -525,4 +524,3 @@
     ============================================= */
     renderProfiles(profiles);
     renderFAQs();
-  </script>
